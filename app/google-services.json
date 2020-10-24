@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211984260842",
+    "firebase_url": "https://grostore-1f291.firebaseio.com",
+    "project_id": "grostore-1f291",
+    "storage_bucket": "grostore-1f291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211984260842:android:3b3d88c5a3161af78e4193",
+        "android_client_info": {
+          "package_name": "com.angela.grostore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211984260842-76snk19ke6611bbgu8e67f76gosfho9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angela.grostore",
+            "certificate_hash": "e7201470deb5abe6152c47dd0fb023bcb57b4ba8"
+          }
+        },
+        {
+          "client_id": "211984260842-mmidrphjt0elsk8so4r6rr7ahn1t7hff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOkEc5jMCtHD4gET2AwzM5YXMadyTW8PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211984260842-mmidrphjt0elsk8so4r6rr7ahn1t7hff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

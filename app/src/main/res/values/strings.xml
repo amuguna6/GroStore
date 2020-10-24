@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GroStore</string>
+
+    <string name="facebook_app_id">661666057806102</string>
+    <string name="fb_login_protocol_scheme">fb661666057806102</string>
+    <string name="gro_store_logo">Gro Store logo</string>
+    <string name="prompt_email">Prompt Email</string>
+    <string name="password">Password</string>
+    <string name="action_sign_in_short">Action Sign In Short</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="resend_verification_email">RESEND VERIFICATION EMAIL</string>
+    <string name="email_registration">EMAIL REGISTRATION</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="email">EMAIL</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="cancel">CANCEL</string>
+    <string name="change_password">Change Password</string>
+    <string name="save">SAVE</string>
+    <string name="current_password">Current Password</string>
+    <string name="account_settings">ACCOUNT SETTINGS</string>
+    <string name="sign_out">SIGN OUT</string>
+
+
+</resources>
