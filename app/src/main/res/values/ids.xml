@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="delivery_amount" type="id" />
+    <item name="drawer_layout" type="id" />
+    <item name="nav_view" type="id" />
+    <item name="back" type="id" />
+</resources>

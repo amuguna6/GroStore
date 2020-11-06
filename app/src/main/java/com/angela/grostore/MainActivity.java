@@ -14,6 +14,8 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.angela.grostore.activity.MainScreenActivity;
+import com.angela.grostore.activity.WelcomeActivity;
 import com.facebook.AccessToken;
 import com.facebook.CallbackManager;
 import com.facebook.FacebookCallback;
@@ -185,7 +187,7 @@ public class MainActivity extends AppCompatActivity {
                         Log.d (TAG,"onAuthStateChanged:signed_in:" + user.getUid ());
                         Toast.makeText (MainActivity.this,"Authenticated with: " + user.getEmail (),Toast.LENGTH_SHORT).show ();
 
-                        Intent intent = new Intent (MainActivity.this,SignedInActivity.class);
+                        Intent intent = new Intent (MainActivity.this,WelcomeActivity.class);
                         startActivity (intent);
                         finish ();
 

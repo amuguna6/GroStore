@@ -3,15 +3,22 @@
     package="com.angela.grostore">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:largeHeap="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".SignedInActivity" />
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+       
         <activity android:name=".RegisterAccount" />
         <activity android:name=".MainActivity">
             <intent-filter>
@@ -20,6 +27,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".activity.WelcomeActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activity.MainScreenActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".activity.BaseActivity" />
+        <activity
+            android:name=".activity.ProductActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden" />
+
+        <activity android:name=".activity.CartActivity" />
+        <activity android:name=".activity.CheckoutActivity" />
+        <activity android:name=".activity.ProductViewActivity" />
         <activity
             android:name="com.facebook.FacebookActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
@@ -40,6 +63,7 @@
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
+
     </application>
 
 </manifest>

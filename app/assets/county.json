@@ -1,0 +1,57 @@
+{
+  "countylist": [
+    {
+      "id": 1,
+      "County": "Mombasa"
+    },
+    {
+      "id": 2,
+      "County": "Kwale"
+    },
+    {
+      "id": 3,
+      "County": "Kilifi"
+    },
+    {
+      "id": 11,
+      "County": "Isiolo"
+    },
+    {
+      "id": 12,
+      "County": "Meru"
+    },
+    {
+      "id": 14,
+      "County": "Embu"
+    },
+    {
+      "id": 15,
+      "County": "Kitui"
+    },
+    {
+      "id": 16,
+      "County": "Machakos"
+    },
+    {
+      "id": 22,
+      "County": "Kiambu"
+    },
+    {
+      "id": 31,
+      "County": "Laikipia"
+    },
+    {
+      "id": 32,
+      "County": "Nakuru"
+    },
+    {
+      "id": 34,
+      "County": "Kajiado"
+    },
+    {
+      "id": 47,
+      "County": "Nairobi"
+    }
+
+  ]
+}

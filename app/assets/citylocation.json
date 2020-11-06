@@ -1,0 +1,129 @@
+{
+  "citylist": [
+    {
+      "id": 1,
+      "city": "Nairobi",
+      "location": "Westlands"
+    },
+    {
+      "id": 2,
+      "city": "Nairobi",
+      "State": "Nairobi-CBD"
+    },
+    {
+      "id": 3,
+      "city": "Nairobi",
+      "location": "Lavington"
+    },
+    {
+      "id": 4,
+      "city": "Nairobi",
+      "location": "Kileleshwa"
+    },
+    {
+      "id": 5,
+      "city": "Nairobi",
+      "location": "Kilimani"
+    },
+    {
+      "id": 6,
+      "city": "Nairobi",
+      "location": "Starehe"
+    },
+    {
+      "id": 7,
+      "city": "Nairobi",
+      "location": "Kasarani"
+    },
+    {
+      "id": 8,
+      "city": "Nairobi",
+      "location": "Mombasa Road"
+    },
+    {
+      "id": 9,
+      "city": "Nairobi",
+      "location": "Embakasi"
+    },
+    {
+      "id": 10,
+      "city": "Nairobi",
+      "location": "Parklands"
+    },
+    {
+      "id": 11,
+      "city": "Nairobi",
+      "location": "Gigiri"
+    },
+    {
+      "id": 12,
+      "city": "Nairobi",
+      "location": "Riara"
+    },
+    {
+      "id": 13,
+      "city": "Kiambu",
+      "location": "Runda"
+    },
+    {
+      "id": 15,
+      "city": "Kiambu",
+      "location": "Kikuyu"
+    },
+    {
+      "id": 15,
+      "city": "Kiambu",
+      "location": "Kabete"
+    },
+    {
+      "id": 16,
+      "city": "Kajiado",
+      "location": "Ongata Rongai"
+    },
+    {
+      "id": 17,
+      "city": "Nairobi",
+      "location": "Karen"
+    },
+    {
+      "id": 18,
+      "city": "Kajiado",
+      "location": "Kitengela"
+    },
+    {
+      "id": 19,
+      "city": "Nakuru",
+      "location": "Nakuru towm"
+    },
+    {
+      "id": 20,
+      "city": "Mombasa",
+      "location": "Nyali"
+    },
+    {
+      "id": 21,
+      "city": "Mombasa",
+      "location": "Bamburi"
+    },
+    {
+      "id": 22,
+      "city": "Mombasa",
+      "location": "Mvita"
+    },
+    {
+      "id": 23,
+      "city": "Mombasa",
+      "location": "Port"
+    },
+    {
+      "id": 24,
+      "city": "Mombasa",
+      "location": "Changamwe"
+    },
+    {
+      "id": 25,
+      "city": "Mombasa",
+      "location": "Mtapwa"
+    }
+  ]
+}
